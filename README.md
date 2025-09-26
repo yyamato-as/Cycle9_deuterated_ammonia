@@ -1,1 +1,2 @@
-# Cycle9_deuterated_ammonia
+# ALMA Cycle 9 proposal for detecting deuterated ammonia lines
+1
